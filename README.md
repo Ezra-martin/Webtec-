@@ -123,12 +123,7 @@ This project is for academic purposes.
 
 ⭐ Developed by MANZI Ezra (26688)
 
-yaml
-Copy code
 
----
-
-If you want, I can also make a shorter version (more professional style) or a more advanced one with badges.
 
 
 
